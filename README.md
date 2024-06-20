@@ -31,8 +31,8 @@ This project demonstrates the parallel computation of the Mandelbrot set using t
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/mandelbrot-qt-openmp.git
-   cd mandelbrot-qt-openmp
+   git clone https://github.com/osmancanaksoy/mandelbrot-parallel-computation.git
+   cd mandelbrot-parallel-computation
    ```
 
 2. **Open the Project in Qt Creator:**
@@ -47,7 +47,7 @@ This project demonstrates the parallel computation of the Mandelbrot set using t
 
 1. **Launch the Application:**
 
-   Run the `MandelbrotApp` executable from Qt Creator.
+   Run the app executable from Qt Creator.
 
 2. **Explore the Mandelbrot Set:**
 
@@ -73,12 +73,13 @@ Performance metrics are calculated and displayed as graphs within the applicatio
 
 ### Performance Metrics
 
-![Speedup Graph](screenshots/speedup.png)
-![Efficiency Graph](screenshots/efficiency.png)
+![Graph](screenshots/speedup-efficiency.png)
 
 ## Contributing
+We welcome contributions to improve this project. Here are some ways you can contribute:
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
+- **Report Bugs**: If you find a bug, please open an issue with detailed information.
+- **Submit Pull Requests**: If you have a fix or a new feature, submit a pull request. Please ensure your code follows the project's coding standards.
 
 ## License
 
